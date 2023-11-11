@@ -23,71 +23,38 @@ Here are some ideas to get you started:
 ## ⚙️ Contact me
 <p>
     <a href="mailto:emsilaeva@gmail.com">
-        <img width="7%" title="Gmail" src="icons/Gmail_icon_(2020).png">
+        <img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/>
     </a>
     <a href="https://t.me/Piontel">
-      <img width="7%" title="Telegram" src="icons/Telegram.svg">
+        <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge"/>
     </a>
 </p>
 
 ## ⚙️ Tech Stack
 
 <p>
-    <a href="https://www.java.com/">
-      <img width="7%" title="Java" src="icons/java-original.svg">
-    </a>
-    <a href="https://www.jetbrains.com/">
-      <img width="7%" title="IntelliJ IDEA" src="icons/Idea.svg">
-    </a>
-    <a href="https://gradle.org/">
-      <img width="7%" title="Gradle" src="icons/gradle-plain.svg">
-    </a>
-    <a href="https://junit.org/junit5/">
-      <img width="7%" title="JUnit5" src="icons/Junit5.svg">
-    </a>
-    <a href="https://rest-assured.io/">
-      <img width="7%" title="JUnit5" src="icons/rest-assured.png">
-    </a>
-    <a href="https://github.com/">
-      <img width="7%" title="GitHub" src="icons/github-mark-white.svg">
-    </a>
-    <a href="https://selenide.org/">
-      <img width="7%" title="Selenide" src="icons/Selenide.svg">
-    </a>
-    <a href="https://developer.android.com/studio">
-      <img width="6%" title="Android Studio" src="icons/Android_Studio.png">
-    </a>
-    <a href="https://appium.io/">
-      <img width="6%" title="Appium" src="icons/appium.svg">
-    </a>
-    <a href="https://github.com/appium/appium-inspector">
-      <img width="6%" title="Appium Inspector" src="icons/appium_inspector.png">
-    </a>
-    <a href="https://www.browserstack.com/">
-      <img width="6%" title="Browserstack" src="icons/Browserstack.svg">
-    </a>
-    <a href="https://qameta.io/allure-report/">
-      <img width="7%" title="Allure Report" src="icons/Allure.svg">
-    </a>
-    <a href="https://www.jenkins.io/">
-      <img width="7%" title="Jenkins" src="icons/jenkins-original.svg">
-    </a>
-    <a href="https://telegram.org/">
-      <img width="7%" title="Telegram" src="icons/Telegram.svg">
-    </a>
-    <a href="https://qameta.io/">
-      <img width="7%" title="Allure TestOps" src="icons/Allure_TO.svg">
-    </a>
-    <a href="https://www.atlassian.com/software/jira">
-      <img width="7%" title="Jira" src="icons/Jira.svg">
-    </a>
+    <img width="6%" title="Java" src="icons/java-original.svg">
+    <img width="6%" title="IntelliJ IDEA" src="icons/Idea.svg">
+    <img width="6%" title="Gradle" src="icons/gradle-plain.svg">
+    <img width="6%" title="JUnit5" src="icons/Junit5.svg">
+    <img width="6%" title="JUnit5" src="icons/rest-assured.png">
+    <img width="6%" title="GitHub" src="icons/github-mark-white.svg">
+    <img width="6%" title="Selenide" src="icons/Selenide.svg">
+    <img width="6%" title="Android Studio" src="icons/Android_Studio.png">
+    <img width="6%" title="Appium" src="icons/appium.svg">
+    <img width="6%" title="Appium Inspector" src="icons/appium_inspector.png">
+    <img width="6%" title="Browserstack" src="icons/Browserstack.svg">
+    <img width="7%" title="Allure Report" src="icons/Allure.svg">
+    <img width="6%" title="Jenkins" src="icons/jenkins-original.svg">
+    <img width="6%" title="Telegram" src="icons/Telegram.svg">
+    <img width="6%" title="Allure TestOps" src="icons/Allure_TO.svg">
+    <img width="6%" title="Jira" src="icons/Jira.svg">
 </p>
 
-## ⚙️ My diplom projects
+## ⚙️ My projects
 - [Тестирование UI web-сайта банка Уралсиб](https://github.com/esilaeva/qa_guru_final_project_ui)
 - [Тестирования API агрегатора новостей Feedbin)](https://github.com/esilaeva/qa_guru_final_project_api)
 - [Тестирование мобильного приложения Wire.com](https://github.com/esilaeva/qa_guru_final_project_mobile)
-
 
 ## ⚙️ GitHub Analytics
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=esilaeva&theme=solarized_dark)  
