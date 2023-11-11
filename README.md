@@ -34,7 +34,7 @@
     <img width="5%" title="Jira" src="icons/Jira.svg" alt="Jira">
 </p>
 
-## ⚙️ My projects for QA.GURUSchool of Test Automation Engineers in Java
+## ⚙️ My projects for QA.GURU School of Test Automation Engineers in Java
 
 - [Тестирование UI web-сайта банка Уралсиб](https://github.com/esilaeva/qa_guru_final_project_ui)
 - [Тестирования API агрегатора новостей Feedbin](https://github.com/esilaeva/qa_guru_final_project_api)
