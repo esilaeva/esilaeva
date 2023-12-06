@@ -34,14 +34,11 @@
 ## ⚙️ My graduation projects for QA.GURU School of Test Automation Engineers in Java
 
 ### [Тестирование UI web-сайта банка Уралсиб](https://github.com/esilaeva/qa_guru_final_project_ui)  
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=esilaeva&repo=qa_guru_final_project_ui
-)](https://github.com/esilaeva/qa_guru_final_project_ui)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=esilaeva&repo=qa_guru_final_project_ui)](https://github.com/esilaeva/qa_guru_final_project_ui)
 ### [Тестирования API агрегатора новостей Feedbin](https://github.com/esilaeva/qa_guru_final_project_api)  
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=esilaeva&repo=qa_guru_final_project_api
-)](https://github.com/esilaeva/qa_guru_final_project_api)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=esilaeva&repo=qa_guru_final_project_api)](https://github.com/esilaeva/qa_guru_final_project_api)
 ### [Тестирование мобильного приложения Wire.com](https://github.com/esilaeva/qa_guru_final_project_mobile)  
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=esilaeva&repo=qa_guru_final_project_mobile
-)](https://github.com/esilaeva/qa_guru_final_project_mobile)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=esilaeva&repo=qa_guru_final_project_mobile)](https://github.com/esilaeva/qa_guru_final_project_mobile)
 
 ## ⚙️ GitHub Analytics
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=esilaeva&theme=solarized_dark)  
