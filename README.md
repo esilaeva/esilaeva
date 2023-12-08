@@ -33,13 +33,13 @@
 
 ## ⚙️ My graduation projects for QA.GURU School of Test Automation Engineers in Java
 
-### Тестирование UI web-сайта банка Уралсиб  
+### Проект автоматизации тестирования UI web-сайта банка Уралсиб  
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=esilaeva&repo=qa_guru_final_project_ui
 )](https://github.com/esilaeva/qa_guru_final_project_ui)
-### Тестирования API агрегатора новостей Feedbin  
+### Проект автоматизации тестирования API агрегатора новостей Feedbin  
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=esilaeva&repo=qa_guru_final_project_api
 )](https://github.com/esilaeva/qa_guru_final_project_api)
-### Тестирование мобильного приложения Wire.com  
+### Проект автоматизации тестирования мобильного приложения Wire.com  
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=esilaeva&repo=qa_guru_final_project_mobile
 )](https://github.com/esilaeva/qa_guru_final_project_mobile)
 
